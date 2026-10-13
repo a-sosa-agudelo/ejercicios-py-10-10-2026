@@ -32,3 +32,4 @@ elif opcion == "4":
         print("Error: No se puede dividir entre cero.")
 else:
     print("Opción no válida. Por favor, ejecuta el programa nuevamente.")
+    hoa
